@@ -1,0 +1,16 @@
+{
+  "type": "xai",
+  "access_token": "eyJ0eXAiOiJhdCtqd3QiLCJhbGciOiJFUzI1NiIsImtpZCI6Im9hdXRoMi1wcm9kdWN0aW9uLTIwMjYtMDItMTkifQ.eyJpc3MiOiJodHRwczovL2F1dGgueC5haSIsInN1YiI6IjA5NDQ5ZDA5LTM4MzUtNDZlZC05ODY2LWYyYmQ1OTc3YjdmMCIsImF1ZCI6ImIxYTAwNDkyLTA3M2EtNDdlYS04MTZmLTRjMzI5MjY0YTgyOCIsImV4cCI6MTc4NDU1NDA4NywiaWF0IjoxNzg0NTMyNDg3LCJzY29wZSI6Im9wZW5pZCBwcm9maWxlIGVtYWlsIG9mZmxpbmVfYWNjZXNzIGdyb2stY2xpOmFjY2VzcyBhcGk6YWNjZXNzIiwicHJpbmNpcGFsX3R5cGUiOiJVc2VyIiwicHJpbmNpcGFsX2lkIjoiMDk0NDlkMDktMzgzNS00NmVkLTk4NjYtZjJiZDU5NzdiN2YwIiwiY2xpZW50X2lkIjoiYjFhMDA0OTItMDczYS00N2VhLTgxNmYtNGMzMjkyNjRhODI4IiwianRpIjoiNWYzY2YwMDQtYzUwOC00OGM5LWE1MGUtOTIwYWQ4MDEyM2NlIiwidGVhbV9pZCI6IjZhMzFmNzczLWU0YTQtNDc0Yy04ZjllLWY0Y2Q5OWNjMWE1NCIsImJvdF9mbGFnX3NvdXJjZSI6MX0.xfYyK5tp0x3ianxpigmg-WIW9WjW_qC7BWpEEYIZubJKsDPV0bPkUU_jacSXtuA63tl_RP06LaWfOVV0mm-3jA",
+  "refresh_token": "O4cbgTThUw0VARPqy_90J13ofgu3i-YE7S2Tup4KDMTBw1_y5lA1Q1pSsJII4AcPO2AnGQoH8VfQDKUTvrWRCQ",
+  "token_type": "Bearer",
+  "expires_in": 21600,
+  "expired": "2026-07-20T13:28:07Z",
+  "last_refresh": "2026-07-20T07:27:42Z",
+  "email": "7y3xuafe4mb6@pagechat.online",
+  "sub": "09449d09-3835-46ed-9866-f2bd5977b7f0",
+  "base_url": "https://cli-chat-proxy.grok.com/v1",
+  "redirect_uri": "http://127.0.0.1:56121/callback",
+  "token_endpoint": "https://auth.x.ai/oauth2/token",
+  "auth_kind": "oauth",
+  "id_token": "eyJ0eXAiOiJKV1QiLCJhbGciOiJFUzI1NiIsImtpZCI6Im9hdXRoMi1wcm9kdWN0aW9uLTIwMjYtMDItMTkifQ.eyJpc3MiOiJodHRwczovL2F1dGgueC5haSIsInN1YiI6IjA5NDQ5ZDA5LTM4MzUtNDZlZC05ODY2LWYyYmQ1OTc3YjdmMCIsImF1ZCI6ImIxYTAwNDkyLTA3M2EtNDdlYS04MTZmLTRjMzI5MjY0YTgyOCIsImV4cCI6MTc4NDU1NDA4NywiaWF0IjoxNzg0NTMyNDg3LCJnaXZlbl9uYW1lIjoiQWFyb24iLCJmYW1pbHlfbmFtZSI6IkhhbiIsImVtYWlsIjoiN3kzeHVhZmU0bWI2QHBhZ2VjaGF0Lm9ubGluZSIsImVtYWlsX3ZlcmlmaWVkIjp0cnVlfQ.SV7ReLeQ0nWMGfP_KZDTRg4KlzKI3LH0j-KrJ6QamLlwqjL3Gek9vYn3QHPUFBXulAyiTKPBdSSZcHcuWzZuJA"
+}
