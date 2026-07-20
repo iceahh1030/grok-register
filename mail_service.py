@@ -490,7 +490,8 @@ def duckmail_get_oai_code(
 
 def extract_verification_code(text, subject=""):
     if subject:
-        match = re.search(r"^([A-Z0-9]{3}-[A-Z0-9]{3})\s+xAI", subject, re.IGNORECASE)
+        # 优先从 subject 中提取，兼容 "VJK-X29 xAI" 和 "confirmation code: VJK-X29" 等格式
+        match = re.search(r"\b([A-Z0-9]{3}-[A-Z0-9]{3})\b", subject, re.IGNORECASE)
         if match:
             return match.group(1)
     match = re.search(r"\b([A-Z0-9]{3}-[A-Z0-9]{3})\b", text, re.IGNORECASE)
